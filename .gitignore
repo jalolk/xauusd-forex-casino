@@ -1,0 +1,7 @@
+*.ex5
+*.ex4
+*.log
+__pycache__/
+*.pyc
+Tester/
+Files/
